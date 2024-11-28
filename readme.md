@@ -80,16 +80,16 @@ More than an e-commerce platform - a comprehensive digital fashion ecosystem des
 ### 👚 Product Categories
 ![Product Categories](https://user-images.githubusercontent.com/110043714/221476009-9815de89-3924-4f68-bae7-10d81dd46c2d.png)
 
-### 🔍 Product Details
+### 🛒 Shopping Cart
 ![Product Details](https://user-images.githubusercontent.com/110043714/221476043-47aa9bdd-d71c-484c-bb83-5979cbbecf8b.png)
 
-### 🛒 Shopping Cart
+### 👤 User Authentication
 ![Shopping Cart](https://user-images.githubusercontent.com/110043714/221476091-35206cba-066b-4b5d-8606-ae066e404d43.png)
 
-### 💳 Checkout Process
+### 👤 Admin Section
 ![Checkout](https://user-images.githubusercontent.com/110043714/221476254-875df365-c487-4ed2-8c61-67c7e7c2c7bf.png)
 
-### 👤 User Authentication
+### 👤 Admin Section
 ![User Authentication](https://user-images.githubusercontent.com/110043714/221476362-32b50550-de2c-402f-9181-6c95a659a460.png)
 
 ### 🏷️ Product Listings
@@ -98,7 +98,7 @@ More than an e-commerce platform - a comprehensive digital fashion ecosystem des
 ### 📱 Responsive Design
 ![Responsive Design](https://user-images.githubusercontent.com/110043714/221476391-fd6d7e05-8c58-493b-b31a-4dc5f786e560.png)
 
-### 🌐 Global Navigation
+### 👤 Admin Authentication
 ![Global Navigation](https://user-images.githubusercontent.com/110043714/221476414-1b6626a7-f8ce-4641-9625-f4685d07c522.png)
 </details>
 

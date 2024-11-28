@@ -18,13 +18,13 @@ More than an e-commerce platform - a comprehensive digital fashion ecosystem des
 
 ### 👥 Dream Team
 
-| Name | Role | Contribution |
-|------|------|--------------|
-| Onkar Kalsannawar | Project Lead | Overall Coordination |
-| Suman Biswas | Frontend Architect | UI/UX Design |
-| Arun Kumar Rana | Backend Developer | State Management |
-| M Noor Mohammed | Full Stack Developer | Feature Implementation |
-| Deepak Patil | Performance Specialist | Optimization & Testing |
+| Name | Role |
+|------|------|
+| Onkar Kalsannawar | Project Lead |
+| Suman Biswas | Team Member |
+| Arun Kumar Rana | Team Member |
+| M Noor Mohammed | Team Member |
+| Deepak Patil | Team Member |
 
 ---
 
